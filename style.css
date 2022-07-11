@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.first-section {
+    width: 100%;
+    height: 900px;
+    background-image: url(images/image1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.first-sec-img {
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.808), transparent);
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+
+.first-heading {
+    color: white;
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.first-heading-1 {
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.heading-position {
+    margin-top: 12%;
+    margin-left: 15%;
+}
+
+.button-design {
+    color: white;
+    background-color: red;
+    padding: 20px 40px;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 50px;
+}
