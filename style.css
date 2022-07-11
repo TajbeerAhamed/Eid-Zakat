@@ -63,7 +63,6 @@ body {
 .second-section-1 {
     margin-left: 15%;
     width: 100%;
-
 }
 
 .second-para {
@@ -74,12 +73,13 @@ body {
 .yt-video {
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 80px;
 }
 
 .third-section {
     display: flex;
     margin-top: 100px;
-
+    margin-bottom: 100px;
 }
 
 .prayer-img {
@@ -98,4 +98,104 @@ body {
 
 .third-section-1 {
     margin-right: 300px;
+}
+
+.fourth-section-2 {
+    text-align: center;
+    color: black;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.two {
+    text-align: center;
+    color: gray;
+}
+
+.bkash-nagad {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+
+.bkash-nagad-2 {
+    display: flex;
+    margin-top: 0px;
+    margin-left: 40px;
+}
+
+.bkash {
+    height: 200px;
+    width: 500px;
+    margin-left: 40px;
+    padding: 30px;
+    background-color: rgb(236, 206, 226);
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.nagad {
+    height: 200px;
+    width: 500px;
+    margin-left: 40px;
+    padding: 30px;
+    background-color: rgb(236, 206, 226);
+    border-radius: 10px;
+}
+
+.prayer-section {
+    display: flex;
+    margin-top: 150px;
+}
+
+.img-1 img {
+    margin-left: 150px;
+    width: 400px;
+    height: 450px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+}
+
+.jakat1 {
+    background-color: white;
+    margin-top: 120px;
+    height: 550px;
+    width: 310px;
+    margin-left: 150px;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+
+.zakat {
+    display: flex;
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+.jakat1 img {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+}
+
+.jakat1-heading {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.color-red {
+    color: red;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+footer {
+    height: 170px;
+    background-color: rgba(115, 38, 167, 0.932);
+    color: rgb(13, 17, 12);
+    text-align: center;
+    padding-top: 50px;
+    font-size: 18px;
+    font-weight: 700;
 }
