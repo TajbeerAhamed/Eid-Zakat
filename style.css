@@ -6,11 +6,12 @@ body {
 
 .first-section {
     width: 100%;
-    height: 900px;
+    height: 942px;
     background-image: url(images/image1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin-bottom: 100px;
 }
 
 .first-sec-img {
@@ -44,4 +45,57 @@ body {
     font-size: 22px;
     font-weight: 700;
     margin-top: 50px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+
+.second-section {
+    display: flex;
+    margin-top: 150px;
+}
+
+.second-heading {
+    color: black;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.second-section-1 {
+    margin-left: 15%;
+    width: 100%;
+
+}
+
+.second-para {
+    font-size: 18px;
+    color: gray;
+}
+
+.yt-video {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.third-section {
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.prayer-img {
+    height: 550px;
+    width: 500px;
+    margin-left: 30px;
+    border-radius: 5px;
+}
+
+.third-heading {
+    margin-left: 5%;
+    color: black;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.third-section-1 {
+    margin-right: 300px;
 }
